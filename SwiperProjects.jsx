@@ -90,7 +90,7 @@ const SwiperProjects = () => {
 
   return (
     <section className=' relative w-screen h-full  '>
-      <div className='w-full h-full flex flex-col justify-center items-center text-white z-10'>
+      <div className='w-full h-screen flex flex-col justify-center items-center text-white z-10'>
         <h1 className='text-5xl lg:text-7xl mt-10 fredoka-font text-center'>
           Portfolio
           <span className=' light-blue-text font-semibold '> Pro</span>
